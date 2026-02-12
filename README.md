@@ -3,7 +3,7 @@
 macOSのメニューバー常駐型アプリです。
 自分に関連するプルリクエスト（レビュー依頼、自分のPR、アサイン済み）を素早く確認できます。
 
-<img width="406" height="510" alt="スクリーンショット 2026-02-12 21 42 15" src="https://github.com/user-attachments/assets/a4b3f0d9-0932-4933-96de-fc718de625ac" />
+<img width="406" height="510" alt="スクリーンショット 2026-02-12 21 42 15" src="https://github.com/user-attachments/assets/b3086b4f-1020-4ab7-ac63-1ccec45a1810" />
 
 ## 特徴
 
