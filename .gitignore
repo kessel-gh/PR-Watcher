@@ -1,0 +1,17 @@
+# Xcode
+.DS_Store
+*/build/
+*.derivedData
+*.xcuserstate
+*.xcuserdata/
+xcuserdata/
+*.breakpointexecutionhistory
+*.bitrise.yml
+
+# Swift Package Manager
+.build/
+
+# Others
+*.moved-aside
+*.xccheckout
+*.xcscmblueprint
